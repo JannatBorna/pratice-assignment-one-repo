@@ -1,0 +1,37 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+}
+ .color{
+     color: chocolate;
+ }
+
+ h1{
+     font-size: 30px;
+
+}
+
+.chobi{
+    padding-left: 10%;
+    width: 200%;
+}
+.chobi img{
+    width: 100%;
+}
+.fiexible-container{
+    display: flex;
+    margin-bottom: 200px;
+   
+}
+
+.flower{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.ancor-tag{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 112, 112), orange);
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+}
