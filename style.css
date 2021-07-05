@@ -18,6 +18,13 @@ body{
 .chobi img{
     width: 100%;
 }
+.chobi-two{
+    padding-left: 10%;
+    width: 200%;
+}
+.chobi-two img{
+    width: 100%;
+}
 .fiexible-container{
     display: flex;
     margin-bottom: 200px;
@@ -27,7 +34,14 @@ body{
 .flower{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-}
+    }
+
+    .flower-two {
+       background-image: url(images/dream-bg.png);
+      background-repeat: no-repeat;
+      background-position: right; 
+
+    }
 .ancor-tag{
     text-decoration: none;
     background-image: linear-gradient(rgb(241, 112, 112), orange);
